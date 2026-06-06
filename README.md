@@ -53,8 +53,7 @@ Some important dividend investing metrics included in this project:
 - Pandas
 - NumPy
 - Jupyter Notebook
-- Financial APIs
-- Data Analysis Libraries
+- yfinance
 
 ---
 
